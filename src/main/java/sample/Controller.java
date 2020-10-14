@@ -24,8 +24,10 @@ public class Controller {
         primaryStage.setTitle("Keno Lottery Game");
         primaryStage.setScene(new Scene(root, 750, 500));
         primaryStage.show();
-
+//Garima
 
         }
+
+
 
     }
